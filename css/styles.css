@@ -824,8 +824,7 @@ pointer-events: none;
   background-color: var(--header-bg-color);
   box-sizing: border-box;
   cursor: pointer;
-  border: none;
-   }
+  }
 
  .modal-btn-icon {
        fill: #000000;
