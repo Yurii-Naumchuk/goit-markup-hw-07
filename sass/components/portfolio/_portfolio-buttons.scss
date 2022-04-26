@@ -17,17 +17,12 @@
   
   
   .filter-btn {
-    font-family: var(--main-font);
     font-weight: 500;
-    font-size: 16px;
     line-height: 1.63;
     color: var(--title-color);
-    cursor: pointer;
     background-color: #F5F4FA;
     text-align: center;
-    border-radius: 4px;
     padding: 6px 20px;
-    border: none;
     transition: background-color var(--animation), 
     color var(--animation), 
     box-shadow var(--animation);
